@@ -21,6 +21,7 @@ const TeamList = props =>{
      }
       props.addNewPlayer(newMember)
 
+      //resets form inputs to empty strings
      setTeamMember({name: "", email:"",role:""});
 
 
