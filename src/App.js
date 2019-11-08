@@ -1,7 +1,7 @@
     import React, {useState} from 'react';
     import './App.css';
-    import TeamList from "./Component/form";
-    import TeamDisplay from "./Component/TeamDisplay";
+    import TeamList from "./form";
+    import TeamDisplay from "./TeamDisplay";
 
 
 
